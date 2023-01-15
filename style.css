@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap'); 
+*{
+    margin-top: 10px;
+    padding: auto;
+    margin-left: 12px;
+}
+.bg_gradient{
+    height: 500px;
+    width: 100%;
+    background-image:linear-gradient(Bisque,tan)
+}
+h1{
+    font-family: 'La Belle Aurore', cursive;
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px olive;
+    box-shadow: 12px;
+    text-decoration: underline overline;
+    text-decoration-color: black;
+    color: #a31a1a;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #5c3a3a75;
+    text-decoration:dashed;
+    text-decoration-color: aqua;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(83, 167, 139, 0.774);
+    line-height: 5px;
+}
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #22021f75;
+}
+.list{
+    list-style-type:square;
+    font-size: small;
+    color: rgb(115, 36, 134);
+}
+h5{
+    font-style: oblique;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #7e4c1d;
+    font-size: 20px;
+}
+h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    color: #1c80d1;
+}
+p{
+    font-family: serif;
+    color: #02160e;
+    font-stretch: semi-condensed;
+    font-style: initial;
+}
